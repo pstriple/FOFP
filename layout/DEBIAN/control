@@ -1,0 +1,9 @@
+Package: com.gaq9.fuckofffairplay
+Name: FuckOffFairplay
+Description: A tweak that bypasses the password prompt for encrypted apps on iOS 6-10.
+Maintainer: Lunascape
+Author: Lunascape
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Version: 1.0
